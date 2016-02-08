@@ -23,7 +23,11 @@ import com.nineoldandroids.view.ViewHelper;
  */
 
 /**
- * 第三次测试没有网是否能够提交保存
+ *  第三次测试没有网是否能够提交保存
+ /
+
+ /**
+ *第四次次测试有网提交保存，第三次的能不能出现
  */
 public class DragLayout extends FrameLayout {
     private ViewDragHelper mDraghelp;
