@@ -24,7 +24,7 @@ import java.util.Random;
 public class MainActivity extends ListActivity {
 
     private DragLayout mDraglayout;
-//   private SwipeListAdapter adapter;
+//   private SwipeListAdapter adapt
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -86,6 +86,4 @@ public class MainActivity extends ListActivity {
             }
         });
     }
-
-
 }

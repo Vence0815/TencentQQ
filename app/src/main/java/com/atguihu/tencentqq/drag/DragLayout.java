@@ -17,6 +17,10 @@ import com.nineoldandroids.view.ViewHelper;
 /*
  * Created by 李健 on 2016/1/20.
  */
+
+/**
+ * 提交代码进行测试
+ */
 public class DragLayout extends FrameLayout {
     private ViewDragHelper mDraghelp;
     private View mLeftContent;

@@ -4,7 +4,6 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.widget.LinearLayout;
-
 /*
  * Created by 李健 on 2016/1/22.
  * 自定义的linerlayout
