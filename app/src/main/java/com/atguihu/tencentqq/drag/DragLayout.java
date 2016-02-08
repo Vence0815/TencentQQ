@@ -21,6 +21,10 @@ import com.nineoldandroids.view.ViewHelper;
 /**
  * 提交代码进行测试
  */
+
+/**
+ * 第三次测试没有网是否能够提交保存
+ */
 public class DragLayout extends FrameLayout {
     private ViewDragHelper mDraghelp;
     private View mLeftContent;
